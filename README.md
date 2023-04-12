@@ -16,11 +16,11 @@
 
 ## 1. Installation
 
-**[Download the package](https://github.com/MarcoGargano/responsive-table)**
+**[Download the package](https://github.com/MarcoGargano/responsive-table/download/table-mobile.zip)**
 
 What inside the zip file:
 
-```
+```html
 css/table-mobile.css
 js/table-mobile.js
 ```
@@ -61,7 +61,7 @@ Prototype on [**CodePen**](https://codepen.io/marcogargano/full/vYzmPGG)
 
 ---
 
-# Links
+# 👾 Links
 
 ### React version
 
@@ -71,6 +71,6 @@ Prototype on [**CodePen**](https://codepen.io/marcogargano/full/vYzmPGG)
 
 ---
 
-# 🍕 Give a pizza
+# 🍕 Pizza time
 
-If you like this component and you want to support it... [**PIZZAAA😋😋😋**](https://www.paypal.com/paypalme/MarcoGargano/10)
+If you like this project and you want to support it... [**PIZZAAA😋😋😋**](https://www.paypal.com/paypalme/MarcoGargano/10)
