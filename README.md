@@ -1,13 +1,14 @@
 # Responsive table
-## Flexible & responsive table vanilla JS & CSS
-### A super user-friendly experience, start to use your table also on mobile!
+#### CSS3 & Vanilla JS
+### Flexible & responsive table
+- 🖥️ On desktop as a classic table 
+- 📱 On mobile as collapsable rows
+
+**A super user-friendly experience, start to use your table also on mobile!**
 
 ![lan](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![lan](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lan](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=jss&logoColor=black)
-
-🖥️ On desktop as a classic table 
-📱 On mobile as collapsable rows
 
 ---
 
