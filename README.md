@@ -26,7 +26,16 @@ js/table-mobile.js
 
 ## 2. Usage
 
-**Just add the `table-mobile` class to your table.**
+### Add style and javascript to your project
+
+For example, add the code below in your html file inside head or footer: 
+
+```html
+<link rel="stylesheet" href="css/table-mobile.css">
+<script src="js/table-mobile.js"></script>
+```
+
+### Add the `table-mobile` class to your table.
 
 For example if you are using Bootstrap: 
 
