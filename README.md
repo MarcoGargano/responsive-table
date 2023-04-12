@@ -11,32 +11,53 @@
 
 ---
 
-# Links
+# 🛠️ How to
 
-- 👉 [**NPM Package**](https://www.npmjs.com/package/responsive-table-react)
-- 👉 [**GitHub Repository**](https://github.com/MarcoGargano/responsive-table-react)
-- 👉 [**CodePen**](https://codepen.io/marcogargano/full/vYzmPGG)
-- 👉 [**GitHub Page**](https://marcogargano.github.io/responsive-table-react/)
+## 1. Installation
+
+**[Download the package](https://github.com/MarcoGargano/responsive-table)**
+
+What inside the zip file:
+
+```
+css/table-mobile.css
+js/table-mobile.js
+```
+
+## 2. Usage
+
+**Just add the `table-mobile` class to your table.**
+
+For example if you are using Bootstrap: 
+
+```html
+<table class="table table-striped table-mobile">
+  <thead>
+    ...
+  </thead>
+  <tbody>
+    ...
+  </tbody>
+</table>
+```
 
 ---
 
 # 🕹️ Demo
 
+Prototype on [**CodePen**](https://codepen.io/marcogargano/full/vYzmPGG)
+
 <img src="https://iili.io/HWLD8Je.gif" width="100%">
 
 ---
 
-# 🛠️ How to
+# Links
 
-## 🔧 Installation
+### React version
 
-**Install by NPM**:
-
-```css
-npm i responsive-table-react
-```
-
-Here you can find the package on NPM: [responsive-table-react](https://www.npmjs.com/package/responsive-table-react).
+- 👉 [**NPM Package**](https://www.npmjs.com/package/responsive-table-react)
+- 👉 [**GitHub Repository**](https://github.com/MarcoGargano/responsive-table-react)
+- 👉 [**GitHub Page**](https://marcogargano.github.io/responsive-table-react/)
 
 ---
 
