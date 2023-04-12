@@ -55,9 +55,9 @@ For example if you are using Bootstrap:
 
 # 🕹️ Demo
 
-Prototype on [**CodePen**](https://codepen.io/marcogargano/full/vYzmPGG)
+### Prototype on [**CodePen**](https://codepen.io/marcogargano/full/JjamvKP)
 
-<img src="https://iili.io/HWLD8Je.gif" width="100%">
+<img src="https://iili.io/Hv2X3S1.gif" style="max-width: 100%;">
 
 ---
 
