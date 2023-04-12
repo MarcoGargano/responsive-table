@@ -16,7 +16,7 @@
 
 ## 1. Installation
 
-**[Download the package](https://github.com/MarcoGargano/responsive-table/download/table-mobile.zip)**
+**[Download the package](https://marcogargano.github.io/responsive-table/download/table-mobile.zip)**
 
 What inside the zip file:
 
