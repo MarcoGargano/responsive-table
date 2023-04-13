@@ -1,6 +1,6 @@
 # Responsive table
 #### CSS3 & Vanilla JS
-### Flexible & responsive table
+### Super flexible & responsive table
 - 🖥️ On desktop as a classic table 
 - 📱 On mobile as collapsable rows
 
