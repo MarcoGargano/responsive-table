@@ -22,7 +22,4 @@ function doTable(tableSelector) {
 	}
 }
 
-window.onload = function () {
-	const tableSelector = "table.table-mobile";
-	doTable(tableSelector);
-};
+window.TableMobile = new TableMobile();
