@@ -19,6 +19,7 @@ table.table-mobile thead {
   table.table-mobile tbody td {
     display: block;
     position: relative;
+    padding: 0.6rem;
   }
   table.table-mobile tbody td:before {
     content: attr(data-label);

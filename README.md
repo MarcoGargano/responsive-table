@@ -43,7 +43,7 @@ Add the code below in your file, inside of head or footer:
 ```html
 <script>
   window.onload = () => {
-    const selector = "my-selector";
+    const selector = "table.table-mobile";
     window.TableMobile.doTable(selector);
   };
 </script>

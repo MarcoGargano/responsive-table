@@ -22,4 +22,4 @@ function doTable(tableSelector) {
 	}
 }
 
-window.TableMobile = new TableMobile();
+// window.TableMobile = new TableMobile();
