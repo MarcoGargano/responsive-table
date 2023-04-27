@@ -24,7 +24,7 @@ Check the demos to view the effect:
 
 ## 📦 Package
 
-You can download our working demos to use how to prefere. 
+You can download our working demos to use how you prefere: 
 
 - **[DOWNLOAD HERE](https://marcogargano.github.io/responsive-table/download/table-mobile.zip)**
 
@@ -41,7 +41,7 @@ demo.html
 
 How to use those files:
 - **table-mobile.css** and **table-mobile.js** are required to work 
-- **table-mobile-theme.css** is optinal, just to apply a great style 
+- **table-mobile-theme.css** is optional, just to apply a great style 
 - the html files are some demos you can use 
 
 ---
@@ -69,28 +69,30 @@ Add the code below in your file to init script, inside of head or footer:
 ```
 
 ### Add classes to your table:
-- `table-mobile` for the plain integration, you can use it together with a framework (For example Bootstrap). 
-- `table-mobile-theme` to apply our beautifull style. 
-- `table-mobile-dark` to apply our style in a dark mode.
+- **`table-mobile`** for the plain integration, you can use it together with a framework (for example Bootstrap) 
+- **`table-mobile-theme`** to apply our beautifull style 
+- **`table-mobile-dark`** to apply our style in a dark mode 
 
 ```html
 <table class="table-mobile table-mobile-theme table-mobile-dark">
-  <thead>
-			<tr>
-				<th>...</th>
-      </tr>
-  </thead>
-  <tbody>
-			<tr>
-				<td>...</td>
-      </tr>
-  </tbody>
+ <thead>
+  <tr>
+   <th>...</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>...</td>
+  </tr>
+ </tbody>
 </table>
 ```
 
 ---
 
+<center>
 <img src="https://iili.io/Hv2X3S1.gif" style="max-width: 100%;">
+</center>
 
 ---
 
