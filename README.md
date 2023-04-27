@@ -12,33 +12,52 @@
 
 ---
 
-# 🛠️ How to
+## 🕹️ Demo
 
-## 1. Installation
+Check the demos to view the effect:
 
-**[Download the package](https://marcogargano.github.io/responsive-table/download/table-mobile.zip)**
+- [with Bootstrap](https://marcogargano.github.io/responsive-table/package/demo-bootstrap.html)
+- [our style](https://marcogargano.github.io/responsive-table/package/demo.html)
+- [our dark mode style](https://marcogargano.github.io/responsive-table/package/demo-dark.html)
+
+---
+
+## 📦 Package
+
+You can download our working demos to use how to prefere. 
+
+- **[DOWNLOAD HERE](https://marcogargano.github.io/responsive-table/download/table-mobile.zip)**
 
 What inside the zip file:
 
 ```html
 css/table-mobile.css
+css/table-mobile-theme.css
 js/table-mobile.js
+demo-bootstrap.html
+demo-dark.html
+demo.html
 ```
 
-## 2. Usage
+How to use those files:
+- **table-mobile.css** and **table-mobile.js** are required to work 
+- **table-mobile-theme.css** is optinal, just to apply a great style 
+- the html files are some demos you can use 
 
-### Add style and javascript
+---
 
-Add the link below in your file, inside of head: 
+## 🛠️ Usage
+
+Add style and javascript link below in your file, inside of head: 
 
 ```html
 <link rel="stylesheet" href="css/table-mobile.css">
+ <!-- Optional -->
+<link rel="stylesheet" href="css/table-mobile-theme.css">
 <script src="js/table-mobile.js"></script>
 ```
 
-### Init script
-
-Add the code below in your file, inside of head or footer: 
+Add the code below in your file to init script, inside of head or footer: 
 
 ```html
 <script>
@@ -49,41 +68,41 @@ Add the code below in your file, inside of head or footer:
 </script>
 ```
 
-### Add the `table-mobile` class to your table
-
-For example if you are using Bootstrap: 
+### Add classes to your table:
+- `table-mobile` for the plain integration, you can use it together with a framework (For example Bootstrap). 
+- `table-mobile-theme` to apply our beautifull style. 
+- `table-mobile-dark` to apply our style in a dark mode.
 
 ```html
-<table class="table table-striped table-mobile">
+<table class="table-mobile table-mobile-theme table-mobile-dark">
   <thead>
-    ...
+			<tr>
+				<th>...</th>
+      </tr>
   </thead>
   <tbody>
-    ...
+			<tr>
+				<td>...</td>
+      </tr>
   </tbody>
 </table>
 ```
 
 ---
 
-# 🕹️ Demo
-
-### Prototype on [**CodePen**](https://codepen.io/marcogargano/full/JjamvKP)
-
 <img src="https://iili.io/Hv2X3S1.gif" style="max-width: 100%;">
 
 ---
 
-# 👾 Links
+## 👾 Connected project
 
-### React version
-
-- 👉 [**NPM Package**](https://www.npmjs.com/package/responsive-table-react)
-- 👉 [**GitHub Repository**](https://github.com/MarcoGargano/responsive-table-react)
-- 👉 [**GitHub Page**](https://marcogargano.github.io/responsive-table-react/)
+React version: 
+- [**NPM Package**](https://www.npmjs.com/package/responsive-table-react)
+- [**GitHub Repository**](https://github.com/MarcoGargano/responsive-table-react)
+- [**GitHub Page**](https://marcogargano.github.io/responsive-table-react/)
 
 ---
 
-# 🍕 Pizza time
+## 🍕 Pizza time
 
-If you like this project and you want to support it... [**PIZZAAA😋😋😋**](https://www.paypal.com/paypalme/MarcoGargano/10)
+If you like this project and you want to support it... [**PIZZAAHA!**](https://www.paypal.com/paypalme/MarcoGargano/10)
