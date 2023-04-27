@@ -10,6 +10,10 @@
 ![lan](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lan](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=jss&logoColor=black)
 
+<center>
+<img src="https://iili.io/Hv2X3S1.gif" style="max-width: 100%; width: 500px; border-radius: .6rem;">
+</center>
+
 ---
 
 ## 🕹️ Demo
@@ -24,7 +28,7 @@ Check the demos to view the effect:
 
 ## 📦 Package
 
-You can download our working demos to use how you prefere: 
+You can download our working demos to use how you prefer: 
 
 - **[DOWNLOAD HERE](https://marcogargano.github.io/responsive-table/download/table-mobile.zip)**
 
@@ -87,12 +91,6 @@ Add the code below in your file to init script, inside of head or footer:
  </tbody>
 </table>
 ```
-
----
-
-<center>
-<img src="https://iili.io/Hv2X3S1.gif" style="max-width: 100%;">
-</center>
 
 ---
 
